@@ -1,0 +1,7 @@
+Python 3.9.20
+Scikit-learn 1.0.2
+Concrete-ml 1.6.1
+Pandas 2.0.3
+Numpy 1.23.5
+Psutil 6.0.0
+Dill 0.3.8
